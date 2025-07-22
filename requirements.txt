@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+streamlit
+faiss-cpu
+python-dotenv
+jose
+passlib[bcrypt]
+twilio
+email-validator
+httpx
+pytest
